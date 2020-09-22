@@ -8,7 +8,7 @@ FROM python:latest
 
 # Author: Victor
 
-LABEL maintainer="Victor Moringa School <victor.njonge@moringaschool.com>"
+LABEL maintainer="Samwel Mwaura <smmuiruri@gmail.com>"
 
 
 
