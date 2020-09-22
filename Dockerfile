@@ -8,7 +8,7 @@ FROM python:latest
 
 # Author: Victor
 
-LABEL maintainer="Samwel Mwaura <smmuiruri@gmail.com>"
+LABEL maintainer="Samwel Mwaura Muiruri <smmuiruri@gmail.com>"
 
 
 
